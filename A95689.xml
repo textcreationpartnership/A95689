@@ -1,0 +1,1552 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Themista &amp; Euphorbus in a familiar dialogue, plainly discovering and passionately bemoaning the exorbitances of the world in the administration of justice : composed at first for a private diversion, and now presented to the worthy maioralty within the famous and antient borrough of Tavistock, Devon, newly incorporated by His Maiesties special favour and with the assistance of the honourable Sr. James Butler, Kt. / by Philopolites.</title>
+            <author>Philopolites.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 62 KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95689</idno>
+            <idno type="STC">Wing T846A</idno>
+            <idno type="STC">ESTC R42591</idno>
+            <idno type="EEBO-CITATION">36282404</idno>
+            <idno type="OCLC">ocm 36282404</idno>
+            <idno type="VID">150324</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95689)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150324)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2242:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Themista &amp; Euphorbus in a familiar dialogue, plainly discovering and passionately bemoaning the exorbitances of the world in the administration of justice : composed at first for a private diversion, and now presented to the worthy maioralty within the famous and antient borrough of Tavistock, Devon, newly incorporated by His Maiesties special favour and with the assistance of the honourable Sr. James Butler, Kt. / by Philopolites.</title>
+                  <author>Philopolites.</author>
+               </titleStmt>
+               <extent>[6], 30 p., 1 (folded) leaf of plates : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for the Author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement: p. 30.</note>
+                  <note>Errors in paging: p. 20-21, 24-25 numbered 24-25 and 20-21, respectively.</note>
+                  <note>Imperfect: faded and stained with loss of text.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tavistock (Devon) --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:150324:1" rendition="simple:additions"/>
+            <p>
+               <hi>Themiſta &amp; Euphorbus</hi> In a familiar Dialogue, plainly Diſcovering, and paſſionately Bemoning, the Exorbitances of the World in the Adminiſtration of JUSTICE.</p>
+            <p>Compoſed at firſt for a private Diverſion, and now preſented to the Worthy Maioralty within the Fa<g ref="char:EOLhyphen"/>mous and antient Burrough of TAVISTOCK, <hi>Devon;</hi> Newly Incorporated by <hi>His Maieſty's</hi> ſpecial Favour, and with the Aſſiſtance of the Honourable S<hi rend="sup">r</hi> 
+               <hi>Iames Butler</hi> K<hi rend="sup">t</hi>.</p>
+            <p>
+               <hi>By</hi> PHILOPOLITES.</p>
+            <q>—facit indignatio verſus. <bibl>
+                  <hi>Hor.</hi>
+               </bibl>
+            </q>
+            <p>LONDON, Printed for the Author, 1683.</p>
+            <pb facs="tcp:150324:2"/>
+            <pb facs="tcp:150324:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:150324:3"/>
+            <pb facs="tcp:150324:3"/>
+            <head>To the VVorſhipful the MAYOR, Together, with the Aldermen &amp; their Aſſiſtants, within the Famous and Antient Burrough of TAVISTOCK, Devon.</head>
+            <p>THis will come too late to tell you how Acceptable this <hi>Infant Maioralty</hi> was in its very <hi>Em<g ref="char:EOLhyphen"/>brio</hi> to the Author himſelf. How much alſo he ſhared with you in the Common Entertainments (before it ſaw the Light) hath been known to <hi>many,</hi> but beſt <hi>Un<g ref="char:EOLhyphen"/>derſtood</hi> (certainly moſt ſenſibly <hi>felt</hi>) by <hi>himſelf.</hi> But notwithſtanding <hi>Envy</hi> and <hi>Might</hi> the Top-ſtone of the Structure is brought forth, let it be attended with <hi>Shoutings,</hi> and <hi>Cry, Grace, Grace, unto it,</hi> I mean, Thanks to God and the King.</p>
+            <pb facs="tcp:150324:4"/>
+            <p>There are yet <hi>Malevolents</hi> (like the Old <hi>Tobies</hi>) in a corner, Curſing, Deprecating and Scoffing in the Antient <hi>Dialect. If a Fox goe up, he ſhall even break down their Strong Wall.</hi>
+               <note place="margin">Neke. 4.3.</note> Let theſe both <hi>Talk</hi> and <hi>Doe</hi> as they liſt. You may deſtroy <hi>it</hi> your ſelves: Your Enemies cannot injure it. So long as ye follow the Undoubted Rules and Dictates of <hi>Juſtice</hi> ye are ſafe, and this you have on the Word of <hi>God</hi> and <hi>Caeſar</hi> both.</p>
+            <p>Had the <hi>Prize</hi> now in <hi>yours</hi> been lodged in the Hands of our <hi>Anceſtors</hi> but a Centurie of Years agone, How glorious a Town, how happy a People had we been? The Government now <hi>obtained</hi> and <hi>poſſeſſed</hi> by <hi>you;</hi> by <hi>them,</hi> could only be <hi>wiſht</hi> and <hi>long'd</hi> for. It was too great a Boon for them to expect, or their <hi>Sultans</hi> to allow. But what <hi>then</hi> ſeem'd im<g ref="char:EOLhyphen"/>poſſible, is <hi>now</hi> effected, by the Benignity of a Gracious Prince, and the Indefatigable Induſtry of a <hi>Noble Friend. God</hi> forbid, ſo great a Bleſſing in it ſelf ſhould become by Siniſter Adminiſtrations an <hi>Evil</hi> to the place. That <hi>Juſtice ſhould be turned into Wormwood.</hi> It's what your Enemies Maliciouſly expect, and your Friends as paſſionately pray againſt.</p>
+            <p>Nature <hi>(Gent.)</hi> hath done its part, and been not a little propitious to our Clyme, Cull'd it out as a <hi>Sub<g ref="char:EOLhyphen"/>ject,</hi> upon which ſhe hath peculiarly doted beyond all places of this Weſtern ſpot of <hi>Brittain:</hi> Bleſt us in the Tranſcendent Excellencies of all the Elements, aptly ſituated us for Trade: Inſpir'd our Natives with ſuch <hi>Mercurial</hi> Soules as have rendered them ca<g ref="char:EOLhyphen"/>pable of ſerving Princes in the very higheſt Capacities
+<pb facs="tcp:150324:4"/>of Church and State, at Sea and Land, in War and Peace. What remains but that ye alſo in your Spheres ſhould Worthyly Act your parts, and become the faireſt Pattern in your Adminiſtrations for Poſterity to Ob<g ref="char:EOLhyphen"/>ſerve and Imitate? If you fail in this, The World will ſwear, your Extraction is Forreign, and that you bear the <hi>Name</hi> only, not the <hi>Nature</hi> of the Antient <hi>TAVISTOKIANS.</hi>
+            </p>
+            <p>
+               <hi>Gent.</hi> I heartily wiſh your Proſperity, and on that account (having no better) have preſented you with this <hi>Dialogue,</hi> not Sawcily to direct, but hum<g ref="char:EOLhyphen"/>bly to mind you. May it in the Initiation of your ſet<g ref="char:EOLhyphen"/>ting forth into a Turbulent <hi>Ocean</hi> prove a <hi>Lanthern</hi> to precaution you againſt the Rocks and Shelves that have been fatal to too many. And why ſhould not this <hi>Infant-Muſe</hi> and our <hi>Infant-Maioralty</hi> be good Company? Being born in the ſame place, Why may they not Breath together in the ſame Air, eſpecially at <hi>Taviſtock,</hi> where they ſpeak <hi>Poeſy</hi> as Naturally as they ſpit? <hi>Heavens</hi> Bleſs you all, and make you as good as your Government, So Prays</p>
+            <closer>
+               <signed>
+                  <hi>Your Fellow</hi> Native, <hi>and Humble</hi> SERVANT, Philopolites.</signed>
+               <dateline>
+                  <hi>Taviſt.</hi> 
+                  <date>Sep. <hi>3d, 1682.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:150324:5"/>
+            <head>To my Book.</head>
+            <lg>
+               <l>WELL, ſith it is thy <hi>Lot,</hi> and that thou durſt</l>
+               <l>Thus make a <hi>Sally,</hi> and <hi>Adventure</hi> firſt,</l>
+               <l>Leaving thy <hi>Brethren</hi> for a pauſe, to dwell</l>
+               <l>Within their <hi>Silent</hi> yet <hi>Securer</hi> Cell,</l>
+               <l>
+                  <hi>Heav'ns</hi> be thy ſpeed. I know already ſome</l>
+               <l>Abhor thy <hi>Front,</hi> and do fore-bode thy Doom.</l>
+               <l>Theſe, pincht with <hi>Guilt,</hi> in their unhallowed Ire</l>
+               <l>Could thee in <hi>Pieces</hi> tear, or damn to <hi>Fire:</hi>
+               </l>
+               <l>Whil'ſt (guiltleſs) thou doſt only <hi>Vices</hi> blame</l>
+               <l>And leav'ſt th' Offender uncomrould by <hi>Name.</hi>
+               </l>
+               <l>Be not diſmay'd, thou doſt a <hi>Miſtreſs</hi> ſerve</l>
+               <l>That is thy Patron, and will thee preſerve,</l>
+               <l>(The blest <hi>Themiſta</hi>) who with <hi>Sword</hi> and <hi>Scale</hi>
+               </l>
+               <l>Will give due merits unto <hi>Actions</hi> all.</l>
+               <l>"The <hi>Stars</hi> themſelves, rather than <hi>Right</hi> ſhall fail,</l>
+               <l>"In their bright <hi>Sockets</hi> ſhall conſume and quaile.</l>
+               <l>
+                  <hi>Heav'n</hi> will provide thee Friends in <hi>Court</hi> &amp; <hi>City,</hi>
+               </l>
+               <l>Which will <hi>thee</hi> lodge, and <hi>her</hi> extreamly pitty;</l>
+               <l>Embrace thy <hi>Leaves</hi> with <hi>candour,</hi> and declare,</l>
+               <l>How much that <hi>they</hi> concern'd for <hi>Juſtice</hi> are:</l>
+               <l>They'l mix <hi>their Prayers</hi> with <hi>her</hi> redundant <hi>tears,</hi>
+               </l>
+               <l>Till <hi>this</hi> World moulder, and a <hi>new</hi> appears.</l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="soliloquy">
+            <pb n="1" facs="tcp:150324:5"/>
+            <head>
+               <hi>THEMISTA</hi> Explaining her ſelf in a <hi>Soliloquie.</hi>
+            </head>
+            <lg>
+               <l>ALas! why hated thus? and why am I</l>
+               <l>So great a terrour to <hi>Humanity?</hi>
+               </l>
+               <l>How can I be Injurious? who did find</l>
+               <l>Hard <hi>Meaſure</hi> from a <hi>Woman</hi> that is <hi>Blind?</hi>
+               </l>
+               <l>I know nor Friend nor Foe. The <hi>Scales</hi> you view</l>
+               <l>Gives to each Perſon but what is his <hi>Due.</hi>
+               </l>
+               <l>Nor is my Sex ſo curſt, my Looks ſo wan</l>
+               <l>To be a <hi>Scare-Crow</hi> to an upright Man.</l>
+               <l>Mine <hi>Extract</hi> is not vile, I came from
+<note n="*" place="margin">Deus me<g ref="char:EOLhyphen"/>tuens, ne Uni<g ref="char:EOLhyphen"/>verſa homi<g ref="char:EOLhyphen"/>num Commu<g ref="char:EOLhyphen"/>nitas interiet Pudorem jis dedit &amp; Iuſti<g ref="char:EOLhyphen"/>tiam ut eſſent Civitatum Vincula &amp; Ornamenta Sinequibus ci<g ref="char:EOLhyphen"/>vilem S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cieta<g ref="char:EOLhyphen"/>ten<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ju<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cti<g ref="char:EOLhyphen"/>onem<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> diſſi<g ref="char:EOLhyphen"/>pari Neceſſe fuit. Piat. in Prot.</note> 
+                  <hi>Heav'n</hi>
+               </l>
+               <l>And can do nothing but what's <hi>Just</hi> and even.</l>
+               <l>Princes adore me through the boundleſs World,</l>
+               <l>And oft their <hi>Crown</hi> have at my <hi>Foot-ſtool</hi> hurld;</l>
+               <l>Yea, to mine Honour as a <hi>Victim</hi> have</l>
+               <l>Themſelves up given to the rav'nous Grave.</l>
+               <l>Great ſtore of <hi>Orphans</hi> and of poor oppreſt</l>
+               <l>Their troubled mindes do at my <hi>Portals</hi> reſt.</l>
+               <l>Armies of <hi>Martyrs</hi> and confeſſing Bands</l>
+               <l>Await to take their <hi>Garlands</hi> at mine Hands.</l>
+               <l>The <hi>Sword</hi> I bear is only to defend</l>
+               <l>The Innocent 'gainſt ſuch as wrongs intend,</l>
+               <pb n="2" facs="tcp:150324:6"/>
+               <l>Nor out my Scabbard ſhall I ev'r it draw,</l>
+               <l>But when I am invaded, or my <hi>Law.</hi>
+               </l>
+               <l>If <hi>Tyrants</hi> ſeize me and perchance me wreſt,
+<note place="margin">A gente ad gentem Tranſ<g ref="char:EOLhyphen"/>fertur regnum propter In<g ref="char:EOLhyphen"/>juſtitiam. Siracid.</note>
+               </l>
+               <l>To ſerve their turn and ſelfiſh <hi>Intereſt;</hi>
+               </l>
+               <l>Lay not the blame (like fools) on me, for I</l>
+               <l>Shall ſoon avenge my wronged <hi>Sov'raignty,</hi>
+               </l>
+               <l>Reſume my <hi>Crown,</hi> and with undaunted might</l>
+               <l>Will in full <hi>ſpecie,</hi> their effronts requite.</l>
+            </lg>
+            <pb facs="tcp:150324:6"/>
+            <pb facs="tcp:150324:7"/>
+            <p>
+               <figure>
+                  <sp>
+                     <speaker>Themiſta</speaker>
+                     <l>Ile goe to heauen again and there ile ſay</l>
+                     <l>Lord haſten thy Long Look<hi rend="sup">d</hi> for Iudgm<hi rend="sup">t</hi> day</l>
+                  </sp>
+                  <sp>
+                     <speaker>Euphorbus</speaker>
+                     <l>O Heauns. forbid sholdeſt thou depart from hence</l>
+                     <l>Ill men Wold haue their Wiſh, good Looſe their ſence</l>
+                  </sp>
+               </figure>
+            </p>
+         </div>
+         <div type="dialogue">
+            <pb n="3" facs="tcp:150324:8"/>
+            <head>
+               <hi>THEMISTA</hi> Ill at eaſe, is Viſited by <hi>E<g ref="char:V">Ʋ</g>PHORB<g ref="char:V">Ʋ</g>S.</hi>
+            </head>
+            <sp>
+               <speaker>
+                  <hi>Euphorbus</hi> a Diuine,</speaker>
+               <lg>
+                  <l>MADAM! what ailes ye? I am ſad to ſee</l>
+                  <l>Your <hi>Ladyſhip</hi> in ſuch an Agonie.</l>
+                  <l>Wher's your Diſtemper? in what part doth lie</l>
+                  <l>The great occaſion of your Maladie?</l>
+                  <l>Not many dayes agoe, how briſque you were?</l>
+                  <l>I nev'r beheld a Bride much cheerfuller:</l>
+                  <l>Now with dejected brows you 'front the ground chance?</l>
+                  <l>Seem like one fallen in a fatal ſwound.</l>
+                  <l>No Word, no Motion; Lord! whence is this</l>
+                  <l>For Gods ſake rouſe, and do your ſelf advance;</l>
+                  <l>Impart your griefs, and if ought may be done</l>
+                  <l>Within the compaſs of my Function,</l>
+                  <l>None ſhall within the Univerſe you find</l>
+                  <l>That to your comfort ſhall be more inclin'd.</l>
+                  <l>With this ſhe ſighs and makes a doleful groan,</l>
+                  <l>And to <hi>Euphorbus</hi> doth expreſs her moan.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Themista,</hi> Juſtice.</speaker>
+               <lg>
+                  <l>Dear Sir! ſhe ſaid, I'm glad to ſee you here,</l>
+                  <l>Your very preſence doth my Vitals cheer.</l>
+                  <l>'T'is not the leaſt of mine affliction that</l>
+                  <l>I've Unfrequented in this poſture ſate.</l>
+                  <l>
+                     <hi>Heav'n</hi> lately ſent me in abundant Love</l>
+                  <l>From my bleſt Station in the World above,</l>
+                  <pb n="4" facs="tcp:150324:9"/>
+                  <l>To Yeild my ſervice to an Earthly throng</l>
+                  <l>That daily did complain of fraud and wrong.</l>
+                  <l>And tho I'm come to do them lawful right,</l>
+                  <l>Ther's none that cares to come within my ſight;</l>
+                  <l>As if I were a <hi>Spectrum,</hi> or ſome Ghoſt,</l>
+                  <l>Which nev'r before arrived in their Coaſt.</l>
+                  <l>The name of <hi>Juſtice</hi> doth extreamly make</l>
+                  <l>The Hearts of <hi>Pcaſant</hi> and of <hi>Prince</hi> to quake,</l>
+                  <l>So that upon my Throne (neglected) I</l>
+                  <l>Awaited them that did my preſence fly.</l>
+                  <l>I'le go to <hi>Heav'n</hi> again, and there I'le ſay,</l>
+                  <l>Lord! haſten thy long-looked for <hi>Judgment</hi> day;</l>
+                  <l>Take my Commiſſion in thy Hands agen,</l>
+                  <l>For thou art <hi>Judge</hi> of <hi>Angels</hi> and of <hi>Men.</hi>
+                  </l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Euphorbus.</speaker>
+               <lg>
+                  <l>
+                     <hi>Madam!</hi> I tremble at your haſty flight,</l>
+                  <l>When <hi>Titan</hi> hides himſelf we'r cloath'd with night.</l>
+                  <l>The World into its <hi>Chaos</hi> old would turn,
+<note place="margin">Juſtitia re<g ref="char:EOLhyphen"/>mora, nil aliud Sunt regna Ni ſi latrocinia Greg.</note>
+                  </l>
+                  <l>If you ſhould leave us, and your work adjourn</l>
+                  <l>Unto that fatal day. Both Devils and Men,</l>
+                  <l>Like Rav'ning <hi>Lyons,</hi> ſoon would quit their Den</l>
+                  <l>To Prey upon the Innocent:
+<note place="margin">Fiat Juſtitia aut percat Mundus. Coeſ-Ferd.</note> and who</l>
+                  <l>Shall reſcue them that are ſo weak, ſo few?</l>
+                  <l>For their <hi>Sakes</hi> yet abide, and if there be</l>
+                  <l>
+                     <hi>Malignants</hi> that oppoſe your Sov'raignty,</l>
+                  <l>Expoſe them to the Light, within my Sphere</l>
+                  <l>I ſhall without reſpect to Love or Fear,</l>
+                  <l>Declare your Meſſage in their ſtubborn Ear.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Themiſta.</speaker>
+               <lg>
+                  <l>I thank you Sir! you have in part allay'd</l>
+                  <l>The heavy Burden on my Heart was laid.</l>
+                  <pb n="5" facs="tcp:150324:9"/>
+                  <l>But yet I doubt my labour will be vain,</l>
+                  <l>My Foes have got the Throne and proudly reign,</l>
+                  <l>They'l ſcorn my meſſage, &amp; your counſel ſleight,</l>
+                  <l>Perchance confound you with their raging might.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Euphorbus.</speaker>
+               <lg>
+                  <l>
+                     <hi>Madam!</hi> this ſhall not me at all deter,</l>
+                  <l>From being your moſt Faithful Meſſenger.</l>
+                  <l>
+                     <hi>Heav'ns</hi> promis'd aid, I never yet have miſt</l>
+                  <l>Since firſt I was ordain'd <hi>Evangeliſt;</hi>
+                  </l>
+                  <l>They will afford me Tongue, and whet my words,</l>
+                  <l>Which deeper ſhall them wound then Spears or <hi>Swords</hi>
+                  </l>
+                  <l>My <hi>foreheads</hi> made of <hi>Braſs,</hi> Ile flatter none</l>
+                  <l>I'le face both <hi>Prince</hi> and <hi>Judge</hi> upon the Throne,</l>
+                  <l>And if I fall in doing of my truſt,</l>
+                  <l>My Blood will not be ſmothered in the Duſt.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Themiſta.</speaker>
+               <lg>
+                  <l>Bravely reſolv'd, and if your courage hold,</l>
+                  <l>I ſhall before your rev'rend Eyes unfold,</l>
+                  <l>Who are the <hi>Miſcreants,</hi> which do daily lay</l>
+                  <l>A Thouſand Scandals in my Duties way.</l>
+                  <l>I'le firſt begin with one
+<note n="*" place="margin">A Self-lo<g ref="char:EOLhyphen"/>ving Judge.</note> 
+                     <hi>Philautus</hi> who</l>
+                  <l>(Oft taken for an honeſt Judge and true)</l>
+                  <l>And on that only Suppoſition,</l>
+                  <l>Hath for a ſeaſon long poſſeſt the Throne.</l>
+                  <l>But on a narrow ſearch I did him find,</l>
+                  <l>One that Immenſly to <hi>Himſelf</hi> is kind,</l>
+                  <l>Reſpects not me. He is a Corp'lent Beaſt,</l>
+                  <l>One hugely pleaſed with a ſumptuous Feaſt.</l>
+                  <l>May he but Ryot and drink Wine in Bowles,</l>
+                  <l>He'l ſlight all Humane <hi>Bodys, States</hi> and <hi>Soules.</hi>
+                  </l>
+                  <l>He ſeemeth <hi>Pur-blind,</hi> but at times his Eye,</l>
+                  <l>Will in a <hi>Pack</hi> of Hay a Needle 'ſpy.</l>
+                  <pb n="6" facs="tcp:150324:10"/>
+                  <l>On's ſtill intenſly fixt upon himſelf,</l>
+                  <l>His gap'd for Honour and his Mounts of pelſ,</l>
+                  <l>The other keepeth cloſe, or open's wide,</l>
+                  <l>As his own <hi>Intereſt</hi> doth beſt him guide.</l>
+               </lg>
+               <lg>
+                  <l>He flatters <hi>great</hi> Men, but towards the <hi>Clown,</hi>
+                  </l>
+                  <l>(Without regard to me) he caſts a frown,</l>
+                  <l>He pumps his <hi>Princes</hi> humour, and will ſtrain</l>
+                  <l>A Point in <hi>Law,</hi> his favour to obtain,</l>
+                  <l>Wherein may he but have the hope to live,</l>
+                  <l>He'l ſriendly ſeem to the <hi>Prerogative,</hi>
+                  </l>
+                  <l>And raiſe it higher than it was before,</l>
+                  <l>Waving the <hi>Lawes,</hi> the <hi>Subjects, Wealth,</hi> or <hi>Gore.</hi>
+                  </l>
+                  <l>This have I known, and hence it comes to paſs,</l>
+                  <l>
+                     <hi>Poor Men</hi> ſo oft becomes the <hi>Great</hi> Mans <hi>Aſſe</hi>
+                  </l>
+                  <l>To bear their loads, till (fore oppreſt) ſhe caſt</l>
+                  <l>Them all, and fall into the <hi>Mire</hi> at laſt.</l>
+               </lg>
+               <lg>
+                  <l>Goe tell this Wretch in ſpight of <hi>Prince</hi> or <hi>Pope</hi>
+                  </l>
+                  <l>He merits not a <hi>Scarlet</hi> Gown, but <hi>Rope:</hi>
+                  </l>
+                  <l>For not their Honour nor their Weal he mindes,</l>
+                  <l>(When thus the Faces of the Poor he grindes)</l>
+                  <l>But his own <hi>Profit,</hi> which when he doth draw</l>
+                  <l>Within the Clutches of his rav'nous Paw,</l>
+                  <l>He hath his End. Then goes in holes to Quaff,</l>
+                  <l>And at their Ruines all doth Jeer and Laugh.</l>
+               </lg>
+               <lg>
+                  <l>If he won't hear you, but will disbelieve</l>
+                  <l>This perfect <hi>Narrative</hi> that I do give:</l>
+                  <l>If all conſent with him, and therefore won't</l>
+                  <l>This Horrid <hi>Caitiffe</hi> at their Bar effront,</l>
+                  <pb n="7" facs="tcp:150324:10"/>
+                  <l>I'le come my ſelf, and will due Vengeance pay</l>
+                  <l>Upon their Heads in an unlook'd for day.</l>
+                  <l>My Name no longer ſhall become a ſhroud</l>
+                  <l>To harm the Guiltleſs and ſecure the Proud.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Euphorbus.</speaker>
+               <lg>
+                  <l>In Rev'rence <hi>Madam!</hi> of your Sacred Name,</l>
+                  <l>I ſhall the Meſſage in their Ears proclaim,</l>
+                  <l>Nor from its method Retrograde an ace,</l>
+                  <l>Giving each accent its deſerved Grace.</l>
+                  <l>Tell who's the next <hi>Malignant</hi> that hath dar'd</l>
+                  <l>To Clog your way and reg'lar courſe inſnar'd.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Themiſta.</speaker>
+               <lg>
+                  <l>
+                     <note n="*" place="margin">A Cove<g ref="char:EOLhyphen"/>tous One.</note> 
+                     <hi>Philarguros</hi> I next muſt roundly blame,</l>
+                  <l>For he hath oftentimes uſurp'd my Name;</l>
+                  <l>Whoſe <hi>Juſtice</hi> (if't to him I may aſcribe)</l>
+                  <l>Was ever midwif'd with a <hi>whisking</hi> Bribe.</l>
+               </lg>
+               <lg>
+                  <l>This <hi>Oyl l'argent</hi> is what men moſt apply,</l>
+                  <l>On's Chariot Wheels to make them ſwiftly fly,</l>
+                  <l>Without the which, when on the <hi>Bench</hi> he ſits,</l>
+                  <l>He is Indifferent whether he miſs or hits;</l>
+                  <l>But leaves it to the Faithleſs <hi>Jury,</hi> to</l>
+                  <l>Improve it for their <hi>Friend,</hi> or gainſt their <hi>Foe.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Nor may you wonder ſuch a <hi>Kennel</hi> are,</l>
+                  <l>Of <hi>Jury-Men</hi> before my Rev'rend Bar.</l>
+                  <l>Scenting the <hi>Prey;</hi> for where the <hi>Carion</hi> is</l>
+                  <l>
+                     <hi>Eagles</hi> do gather in great Companies.</l>
+                  <l>A <hi>Judge</hi> corrupt, ſoon makes a <hi>Jury</hi> ſo,</l>
+                  <l>
+                     <hi>Like unto Like,</hi> the Proverb ſtill doth goe.</l>
+                  <l>Such Correſpondence is betwixt them all,</l>
+                  <l>That into varience they do ſeldom fall;</l>
+                  <pb n="8" facs="tcp:150324:11"/>
+                  <l>Nor i'ſt conſiſtent with the <hi>Politicks,</hi>
+                  </l>
+                  <l>That they ſhould blab abroad each others tricks.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Philarguros</hi> his <hi>Hand</hi> receives anon</l>
+                  <l>What's ſacrific'd to his Devotion,</l>
+                  <l>Which by a due Obſervance you may find,</l>
+                  <l>Is ſtill extended on his <hi>Breech</hi> behind,</l>
+                  <l>Leſt that his ſqueazy <hi>Opticks</hi> hap to be,</l>
+                  <l>The Witneſs of his Curſed Briberie,</l>
+                  <l>And that if call'd to Swear, upon good cauſe,</l>
+                  <l>May ſay, <hi>I nev'r ſaw Bribe from that mans Paws.</hi>
+                  </l>
+                  <l>This done, his Name is in a <hi>Table</hi> ſet,</l>
+                  <l>And ſure this Man he will not once forget.</l>
+                  <l>His <hi>Eyes</hi> are piercing, and they quickly ken</l>
+                  <l>His <hi>Benefactors</hi> from all other Men.</l>
+               </lg>
+               <lg>
+                  <l>One thing material I muſt mention more,</l>
+                  <l>So greedy is he after <hi>Yellow Oare;</hi>
+                  </l>
+                  <l>That 'fore the <hi>Sun</hi> the <hi>Horizon</hi> forgo'th,</l>
+                  <l>This Cormorant takes Fees of partys both.</l>
+                  <l>Nor is't becauſe his Mem'rie is unſound,</l>
+                  <l>But that his Avarice is ſo profound,</l>
+                  <l>His buſmeſs well enough doth underſtand,</l>
+                  <l>At Pleading therefore hath a <hi>Trick</hi> in Hand,</l>
+                  <l>For there ſuch <hi>Quirks</hi> and <hi>Niceties</hi> he diſplays,</l>
+                  <l>The Lawyers are confus'd at what he ſays:</l>
+                  <l>And ſuch a duſt before their Eyes doth throw,</l>
+                  <l>There's none can tell for whom the <hi>cauſe</hi> will goe</l>
+                  <l>All which is done with art political,</l>
+                  <l>To cheat the
+<note n="*" place="margin">Videndum eſt maxi me, Ne Civitas legibus fundata legib. avertatur la<g ref="char:EOLhyphen"/>ert.</note> 
+                     <hi>Law,</hi> the <hi>Cliem, Court</hi> and all.</l>
+                  <pb n="9" facs="tcp:150324:11"/>
+                  <l>Hence comes a motion from his <hi>rav'nous throat,</hi>
+                  </l>
+                  <l>That ſome good <hi>Neighbours</hi> would their <hi>peace promote,</hi>
+                  </l>
+                  <l>Urges a <hi>reference,</hi> &amp; doth name the <hi>Squires</hi>
+                  </l>
+                  <l>Fitteſt to follow his moſt juſt deſires,</l>
+                  <l>Which if refuſed, as it oft falleth out,</l>
+                  <l>(For neither party hath great cauſe to doubt)</l>
+                  <l>The <hi>Jury</hi> by ſome ſignal mark or thing</l>
+                  <l>A <hi>ſpecial Verdict</hi> to the Court doth bring,</l>
+                  <l>Which doth divide the cauſe between them ſo,</l>
+                  <l>That one can't well againſt the other crow.</l>
+                  <l>This proves at times of ſuch Validity,</l>
+                  <l>Both prize it equal with a Victory.</l>
+                  <l>His
+<note n="*" place="margin">Lewis the 11th King of France, wore a Leaden Cru<g ref="char:EOLhyphen"/>cifix in his Bonnet, which as often as he murdered any Body, he kiſt it, and craved Perdon. Ma<g ref="char:EOLhyphen"/>ny take God for a Leaden One.</note> 
+                     <hi>Lordſhip</hi> laughs in's ſleeve at all is done,</l>
+                  <l>Thinks leaſt of Heav'n or Damnation.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Euphorbus.</speaker>
+               <lg>
+                  <l>
+                     <hi>Madam!</hi> you little think with what ſad Heart</l>
+                  <l>(Whil'ſt you the ſad relation do impart</l>
+                  <l>Of this <hi>Philarguros,</hi>) I here do ſit,</l>
+                  <l>Lord help this World, or elſe finiſh it.</l>
+                  <l>Nor am I leſs affected when I mind</l>
+                  <l>The
+<note n="†" place="margin">Nil publi<g ref="char:EOLhyphen"/>cae mercis tam Venale quam hodie Advoca<g ref="char:EOLhyphen"/>torum perfidia ſit Tacit.</note> Perjuries you in the <hi>Juries</hi> find.</l>
+                  <l>In my ſmall time I've obſervation made,</l>
+                  <l>There are of that employ that mak't a trade:</l>
+                  <l>And theſe like <hi>Hounds</hi> that after <hi>Carion</hi> goe,</l>
+                  <l>At ev'ry' <hi>ſſize</hi> themſelves in cluſters ſhow.
+<note n="*" place="margin">Caninum Studium &amp; Confeſſum la<g ref="char:EOLhyphen"/>trocinium. Columetra.</note> Theſe keep their <hi>Chambers</hi> and with <hi>brazen pate</hi>
+                  </l>
+                  <l>Do ſit like <hi>Barriſters</hi> in Pomp and State,</l>
+                  <l>Whom vile <hi>Attorneys</hi> and baſe gentry do,</l>
+                  <l>Moſt ſhameleſly in Troopes reſort unto,</l>
+                  <l>To tempt (like Devils) them to things unjuſt,</l>
+                  <l>And damn their Soules for <hi>white</hi> and <hi>yellow</hi> Duſt.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>
+                  <pb n="10" facs="tcp:150324:12"/>
+Themiſta.</speaker>
+               <lg>
+                  <l>My Dear <hi>Euphorbus!</hi> whil'ſt you'r on this head</l>
+                  <l>Ile tell you lately what hath happened,</l>
+                  <l>Within <hi>Schlwvonia</hi> at a Tryal there,</l>
+                  <l>The truth of which you need not doubt or fear.</l>
+               </lg>
+               <lg>
+                  <l>Upon <hi>Novembers</hi> Mon'th (if not miſcaſt)</l>
+                  <l>A Tryal in the <hi>Baſha's</hi> Court there paſt,</l>
+                  <l>'T wixt <hi>Guelp</hi> and <hi>Gibeline</hi> (for ſo it was</l>
+                  <l>All men almoſt for one of theſe did paſs)</l>
+                  <l>The Action frivolous (as moſt actions are,</l>
+                  <l>That come to be determin'd at that Bar)</l>
+                  <l>The <hi>Plaintiffs</hi> Witneſs and <hi>Defendants</hi> both,</l>
+                  <l>Where equal for their <hi>Number</hi> and their <hi>Troth.</hi>
+                  </l>
+                  <l>Their Oathes quite croſs unto each others goe,</l>
+                  <l>One Swore 't was <hi>Pitch</hi> the other Swore 't was <hi>Snow.</hi>
+                  </l>
+                  <l>The <hi>Jury</hi> were a dozen Sans compare,</l>
+                  <l>And could his Worſhip humour to an hair.</l>
+                  <l>Theſe did the <hi>Baſha</hi> gravely counſel give,</l>
+                  <l>To make their <hi>Verdict</hi> as they did believe.</l>
+                  <l>They pond'ring, who was <hi>Guelp,</hi> who <hi>Gibeline,</hi>
+                  </l>
+                  <l>
+                     <hi>Lo! where's the Gib, the cauſe is clearly thine.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>That day one Tryal only paſſed more,</l>
+                  <l>Which was as frivolous as that before.</l>
+                  <l>Where upon Oath ſhrew'd Witneſſes aroſe,</l>
+                  <l>To prove the <hi>Baſha</hi> did on them impoſe,</l>
+                  <l>A falſe Record, which though he underſtood,</l>
+                  <l>As well's his Deputy <hi>Guſmannus Crude,</hi>
+                  </l>
+                  <l>Yet ſpight of fate the Tryal muſt be paſt,</l>
+                  <l>Wherein the <hi>Guelp</hi> quite on his back was caſt.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>
+                  <pb n="11" facs="tcp:150324:12"/>
+Euphorbus,</speaker>
+               <lg>
+                  <l>I lately of that Court indeed have heard,</l>
+                  <l>And that the <hi>Baſha</hi> hath it meerly marr'd,</l>
+                  <l>By <hi>Packing</hi> Juries and perverting right,</l>
+                  <l>According to the Dictates of his ſpite.</l>
+                  <l>Such <hi>counter ſwearing</hi> 'mongſt them ther's <hi>(tis ſaid)</hi>
+                  </l>
+                  <l>That ſome for fear have from theſe Tryals fled,</l>
+                  <l>And if the <hi>Pillory</hi> had but its due,</l>
+                  <l>St. <hi>Euſtace</hi> might afford cheap heaps of <hi>Glue.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Yet hath that
+<note n="†" place="margin">Boni Viri &amp; boni vini O<g ref="char:EOLhyphen"/>riginem non curioſe inqui<g ref="char:EOLhyphen"/>rendum Coef. Ferd. 1.</note> place for Ages been renown'd,</l>
+                  <l>For lofty <hi>Poets</hi> and <hi>Divines</hi> profound,</l>
+                  <l>Acuteſt <hi>Lawy'rs</hi> and more not to name,</l>
+                  <l>Here ſuckt their Milk, Men of great parts and fame;</l>
+                  <l>That <hi>Air</hi> ('tis thought) did nature ſo ſupply,</l>
+                  <l>It was a Natural <hi>Academie.</hi>
+                  </l>
+                  <l>But by what ſtrange miſhap I cannot ſay,</l>
+                  <l>It's waxt Adult'rate, and its brighteſt day</l>
+                  <l>Is chang'd to night, where long hath dwelt the <hi>Owl,</hi>
+                  </l>
+                  <l>And a lame <hi>Gooſe</hi> hath kept the <hi>Capitol.</hi>
+                  </l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Themiſta.</speaker>
+               <lg>
+                  <l>I'm ſenſible <hi>Euphorbus,</hi> I've digreſt</l>
+                  <l>Now of <hi>Philarguros,</hi> I'le tel the reſt</l>
+                  <l>One noted ſlight his <hi>Avarice</hi> more to heal,</l>
+                  <l>I ſhall to thee impartially reveal,</l>
+                  <l>He'l tell the World. how great a Foe he is</l>
+                  <l>To all that Excreiſe <hi>Embraceries.</hi>
+                  </l>
+                  <l>Curſeth the Hand that taketh <hi>Bribe</hi> or <hi>Fee</hi>
+                  </l>
+                  <l>Againſt the rules of Law or Equity.</l>
+                  <l>Yet <hi>Fryar-like</hi> that could not Finger Gold,</l>
+                  <l>His <hi>Boy</hi> can freely touch't and't ſafely hold.</l>
+                  <pb n="12" facs="tcp:150324:13"/>
+                  <l>This mighty man (whilſt he's at <hi>Chancery Bar</hi>)</l>
+                  <l>Doth keep at <hi>Home</hi> a fatter one by far,</l>
+                  <l>Manag'd by <hi>Stewards</hi> with that care and wit,</l>
+                  <l>Af if at <hi>Athens</hi> they had ſtudied it.</l>
+                  <l>In comes a <hi>Coach</hi> that's daub'd without with Gold,</l>
+                  <l>Within, Rich Linings as Man can behold,</l>
+                  <l>Drawn by ſix Stalions of <hi>Barbarian</hi> Race,</l>
+                  <l>Which are a Preſent for his Lady <hi>Grace,</hi>
+                  </l>
+                  <l>Then comes another with a glittering Watch,</l>
+                  <l>Span-new from Artiſts Hands, <hi>ſans</hi> flaw or <hi>patch,</hi>
+                  </l>
+                  <l>
+                     <hi>Which</hi> in <hi>great caution</hi> by the <hi>waiting-maid</hi>
+                  </l>
+                  <l>Into his Daughters keeping is convey'd,</l>
+                  <l>Nor needs it <hi>Motto</hi> to declare the hap,</l>
+                  <l>For which it falls a <hi>Victim</hi> to her lap,</l>
+               </lg>
+               <lg>
+                  <l>Anon a Team of Oxen, bell'wing come,</l>
+                  <l>Which with hard driving at the Mouth do foam.</l>
+                  <l>Theſe doth the nimble <hi>Hind</hi> inſtall enfold,</l>
+                  <l>Until his maſter come and them behold.</l>
+                  <l>Nor is their <hi>Dairy-Maid</hi> or <hi>Horſe-Man</hi> vile,</l>
+                  <l>Whoſe Hand baſe <hi>Bribery</hi> doth not defile.</l>
+                  <l>But what they take, beſure ſhan't waſt or ruſt,</l>
+                  <l>(Alas poor Soules! they are but <hi>Slaves in truſt,</hi>)</l>
+                  <l>For theſe at even to <hi>Philarguros,</hi>
+                  </l>
+                  <l>Yield up account with every farthing-croſs,</l>
+                  <l>Together with the Names of ſuch great men,</l>
+                  <l>As brought theſe generous <hi>Preſents</hi> to his Den,</l>
+                  <l>Which on his Book are ſet, He'l damn his Soul,</l>
+                  <l>But in due ſeaſon will well-pleaſe them all.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Euphorbus.</speaker>
+               <lg>
+                  <l>Lord! bleſs me, theſe affairs are ſtrange &amp; rare,</l>
+                  <l>And were nev'r heard of in a <hi>Christian</hi> Air.</l>
+                  <pb n="13" facs="tcp:150324:13"/>
+                  <l>
+                     <hi>Turkey</hi> it ſelf where the great <hi>Sultan</hi> ſways,</l>
+                  <l>Hath no Example of ſuch crimes as theſe.</l>
+                  <l>
+                     <hi>Madam!</hi> I ſhall herein you truly ſerve,</l>
+                  <l>And give that Sentence which their Sins deſerve,</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Themiſta.</speaker>
+               <lg>
+                  <l>
+                     <hi>Euphorbus!</hi> Pardon me I make ſo bold</l>
+                  <l>And to thine <hi>Ears</hi> that I theſe <hi>things</hi> have told.</l>
+                  <l>It is ſome eaſe to mine afflicted Heart,</l>
+                  <l>That I with freedome can theſe things impart.</l>
+                  <l>Contracted grief within ſo narrow room,</l>
+                  <l>Would elſe be ſure <hi>Prognoſtick</hi> of my doome.</l>
+                  <l>My next eſſay, ſhall therefore be to paint</l>
+                  <l>Out
+<note n="*" place="margin">A Coward.</note> 
+                     <hi>Periphobes,</hi> that fictitious Saint,</l>
+                  <l>Whom for his mildneſs ſome would fain adore.</l>
+                  <l>An <hi>Apple</hi> fair he is, unfound at <hi>Core.</hi>
+                  </l>
+                  <l>Whoſe <hi>Compaſs'</hi> is his <hi>fancy</hi> and doth bear</l>
+                  <l>Within his <hi>Breaſt</hi> an <hi>Heart</hi> much like an
+<note n="†" place="margin">Dlonyſius metu anxius &amp; nemini ſe credens fami<g ref="char:EOLhyphen"/>liarium Suo<g ref="char:EOLhyphen"/>rum aut pro<g ref="char:EOLhyphen"/>pinquorum tonderefilias Suas docuit ne tonſori Collum commit. terer, aquibus tamen is, cumiam eſ<g ref="char:EOLhyphen"/>ſeut Adultae, ferrum remo<g ref="char:EOLhyphen"/>vit, Inſtituitq. ut Candentibus juglandium pu<g ref="char:EOLhyphen"/>taminibus bar<g ref="char:EOLhyphen"/>bam ſibi &amp; Ca<g ref="char:EOLhyphen"/>pilum adure<g ref="char:EOLhyphen"/>rent.</note> 
+                     <hi>Hare.</hi>
+                  </l>
+                  <l>Such Ears likewiſe he hath. The murm'ring ſound</l>
+                  <l>But of a <hi>Buſh,</hi> he taketh for an <hi>Hound,</hi>
+                  </l>
+                  <l>Which makes him take his Leggs &amp; run for fear,</l>
+                  <l>When not the leaſt apparent danger 's neer.</l>
+                  <l>And hence it is when on the Throne he ſits,</l>
+                  <l>A bold Offender drives him from his wits,</l>
+                  <l>A boyſterous word from either <hi>Count</hi> or <hi>Clown,</hi>
+                  </l>
+                  <l>Shall run his <hi>Majeſterial</hi> Honour down.</l>
+                  <l>So that without reſpect unto the cauſe,</l>
+                  <l>Oft to their Rage doth ſacrifize the Lawes.</l>
+                  <l>Fear being in the Scale, I oft him find,</l>
+                  <l>The Faces of diſtreſſed ones to grind,</l>
+                  <l>Without reluctance or reſpect to me,</l>
+                  <l>Againſt his Oath which ſhould moſt Sacred be:</l>
+                  <pb n="14" facs="tcp:150324:14"/>
+                  <l>For he well knows theſe can no Patrons have,</l>
+                  <l>That from his Hands might juſter meaſure crave.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Euphorbus.</speaker>
+               <lg>
+                  <l>A Plaugy <hi>Peſt</hi> it is, and like it none,</l>
+                  <l>To ſee a
+<note n="*" place="margin">Artemon adeo timidus<g ref="char:EOLhyphen"/>fuit, ut domi plurimum vi<g ref="char:EOLhyphen"/>veret Servis duobus Scutum aereum Supia Caput Semper tenentibus, ue quod Superne Caderet aut ne Caeium rueret. Herae. par.</note> 
+                     <hi>Coward</hi> ſit upon a Throne.</l>
+                  <l>None are more cruel, none more Sanguine be,</l>
+                  <l>When favour'd with fit Opportunity.</l>
+                  <l>
+                     <hi>Mauricius</hi> the Emp'ror can't inhaſt,</l>
+                  <l>Out of my Thoughts without great dread be caſt,</l>
+                  <l>Who ſick at Heart, did dream by <hi>Phocas,</hi> he</l>
+                  <l>One time or other ſhould aſſaffin'd be,</l>
+                  <l>He asketh <hi>Phillip</hi> what might <hi>Phocas</hi> be?</l>
+                  <l>One of thine own <hi>Centariens,</hi> ſaith he.</l>
+                  <l>A Man of great Ambition, but withal</l>
+                  <l>Ther's not ſuch <hi>Coward</hi> more among them all.</l>
+                  <l>Then he'l my <hi>Murdrer</hi> be, a Bloody Spirit,</l>
+                  <l>(Saith he) a <hi>Poltrons</hi> breaſt doth ſtill inherit.</l>
+                  <l>He prov'd true Prophet, for within few days,</l>
+                  <l>He kill'd the Emp'ror and his Scepter ſways.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Themiſta.</speaker>
+               <lg>
+                  <l>Patly apply'd <hi>Euphorbus,</hi> I'le go on,</l>
+                  <l>With <hi>Periphobes</hi> and his Paſſion.</l>
+                  <l>Some to his guilt this Paſſion do impute,</l>
+                  <l>Others do this Conjecture quite confute,</l>
+                  <l>Aſcribing it unto his vaſt Eſtate,</l>
+                  <l>Which he would keep againſt the checks of Fate,</l>
+                  <l>By hoarding up a ſwarm of Friends that may</l>
+                  <l>Be uſeful to him in a doubtful Day.</l>
+                  <l>Others again do charge this Action foul</l>
+                  <l>Upon the narrowneſs of his own Soul.</l>
+                  <l>Let theſe enjoy their Humours, but I muſt</l>
+                  <l>To thee declare the reaſon true and juſt.</l>
+                  <pb n="15" facs="tcp:150324:14"/>
+                  <l>He fears not God and can't at all believe,</l>
+                  <l>What Divine Records of his Name do give.</l>
+                  <l>His matchleſs Juſtice, Holineſs and Pow'r</l>
+                  <l>Reſide not on his ſerious Thoughts an hour;</l>
+                  <l>May he therefore ſecure his Corps and pelf,</l>
+                  <l>With thoughts of Hell he won't diſeaſe himſelf,</l>
+                  <l>Nor love of <hi>Justice</hi> make him ope his <hi>Jawes,</hi>
+                  </l>
+                  <l>For God, his People, or his ſacred Lawes.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Euphorbus.</speaker>
+               <lg>
+                  <l>Lord! I'm aſton'd at what I now do hear,</l>
+                  <l>Who could once think there could ſuch <hi>panick fear</hi>
+                  </l>
+                  <l>Seize that Mans Heart, who holdeth his abode,</l>
+                  <l>In ſeat of <hi>Juſtice,</hi> and in place of <hi>God?</hi>
+                  </l>
+                  <l>When of our Saviour's Crucifiction, I</l>
+                  <l>With ſeriouſneſs peruſe the Hiſtory:</l>
+                  <l>I do obſerve for no Inferiour cauſe,</l>
+                  <l>That <hi>Jeſus Christ</hi> our Lord Condemn'd was</l>
+                  <l>By <hi>Pilate,</hi> for he fear'd the People Rude,</l>
+                  <l>And kill'd our Lord to pleaſe the Multitude.</l>
+                  <l>And therefore juſtly in our Chriſtian Creed,</l>
+                  <l>His moſt abhorred Name is <hi>Jibbeted,</hi>
+                  </l>
+                  <l>That <hi>Generations</hi> whil'ſt the World ſhall laſt,</l>
+                  <l>May of the like Injuſtice be agaſt.</l>
+               </lg>
+               <lg>
+                  <l>A modern Story likewiſe comes to mind,</l>
+                  <l>Of one Judge <hi>Morgan</hi> which Inrol'd we find,</l>
+                  <l>Within the Reign of <hi>Mary, Englands</hi> queen,</l>
+                  <l>Which without Trembling can't be read or ſeen.</l>
+               </lg>
+               <lg>
+                  <l>This Man in Judgment ſate on Lady <hi>Jane</hi>
+                  </l>
+                  <l>An Innocent, yet was moſt roughly ta'ne</l>
+                  <pb n="16" facs="tcp:150324:15"/>
+                  <l>And brought at his Tribunal. Her cauſe heard</l>
+                  <l>His Conſcience prickt him, but becauſe afear'd</l>
+                  <l>In quitting her, he might procure a Frown,</l>
+                  <l>From either <hi>Privy-Counſel</hi> or the <hi>Crown:</hi>
+                  </l>
+                  <l>He did a fatal Sentence 'gainſt her paſs,</l>
+                  <l>Accordingly ſhe Executed was.</l>
+               </lg>
+               <lg>
+                  <l>Immediately the <hi>Judge</hi> grows wonderous ſad,</l>
+                  <l>And deſperately died Raging Mad.</l>
+               </lg>
+               <lg>
+                  <l>One recent inſtance more I can't but Name,</l>
+                  <l>Which publique ſtories in our Ears procla'me</l>
+                  <l>And <hi>therefore</hi> ſhall <hi>with rev'rence tell the ſame.</hi>
+                  </l>
+                  <l>How did King <hi>Charles</hi> of all Kings the beſt,</l>
+                  <l>At's dying hour, ev'n from his Heart deteſt</l>
+                  <l>That Fact of his in giving his conſent,</l>
+                  <l>To <hi>Straffords</hi> Death, aw'd by the <hi>Parliament,</hi>
+                  </l>
+                  <l>No Sin of his on's Conſcience gaſtlier ſtood,</l>
+                  <l>Then the effuſion of his Guiltleſs Blood:</l>
+                  <l>Let theſe Examples make the World beware,</l>
+                  <l>How they wound Juſtice on a groundleſs fear.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Themista,</speaker>
+               <lg>
+                  <l>My Dear <hi>Euphorbus!</hi> I ſhall nothing ſay,</l>
+                  <l>Concerning <hi>Periphobes</hi> more this <hi>Day,</hi>
+                  </l>
+                  <l>Mind only how I do his crimes reſent,</l>
+                  <l>And with all ſharpneſs urge him to repent.</l>
+                  <l>Ile name another one <hi>Mamodes</hi>
+                     <note n="*" place="margin">A Furious One.</note>
+                  </l>
+                  <l>That doth me moſt Notorious Injuries:</l>
+                  <l>He bears a dreadful preſence where he rules,</l>
+                  <l>And counteth all Men (ſave himſelf) but Fooles.</l>
+                  <l>His <hi>Eyes</hi> are ſparkling, as if they would bore</l>
+                  <l>The Breaſts of Mortals, to find out a Sore.
+<note n="†" place="margin">Quo pacto quiſpium aut jus recte dicere aut homines decenter Judi<g ref="char:EOLhyphen"/>care poſſet quinon U<g ref="char:EOLhyphen"/>trumq litigan<g ref="char:EOLhyphen"/>tem audiverit Plato.</note>
+                  </l>
+                  <pb n="17" facs="tcp:150324:15"/>
+                  <l>His Noſe long-hang'd (like to a <hi>Vultures Snout</hi>)</l>
+                  <l>That at a Diſtance ſcents <hi>Delinquents</hi> out.</l>
+                  <l>A
+<note n="†" place="margin">Crudeli<g ref="char:EOLhyphen"/>tatis horridus eſt habitus. Truculenta fa<g ref="char:EOLhyphen"/>cies Violenti Spititus, Vox terribilis. Ora minis et cru entis imperiis referta, (ui Silentium do<g ref="char:EOLhyphen"/>nare incremer<g ref="char:EOLhyphen"/>tum eſt adrice<g ref="char:EOLhyphen"/>re. Val. Max. 1 9.</note> ſingle Eared Gentleman he is,</l>
+                  <l>And that's half Deaf for want of Exerciſe.</l>
+                  <l>The firſt complaint one Ear ſo long en groſt,</l>
+                  <l>The ſenſe of th' other is quite gon and loſt;</l>
+                  <l>Yea, ſuch Diſeaſe on that one Ear is grown,</l>
+                  <l>He is offended at ſome kindes of tone.</l>
+                  <l>What the diſtemper is, great thoughts there be,</l>
+                  <l>Some take't for a <hi>Noli me tangere,</hi>
+                  </l>
+                  <l>For if this humour any chance to touch, <note place="margin">Difficilem oporlet anrem habere ad cri<g ref="char:EOLhyphen"/>mina. Publi<g ref="char:punc">▪</g>
+                     </note>
+                  </l>
+                  <l>He'l bite and ſnarl his froward temper's, ſuch</l>
+                  <l>As if the Laws that are both good and right,</l>
+                  <l>Were to vail <hi>Bonnet</hi> to his Rage and ſpite.</l>
+                  <l>So that e're Pris'ners at the Bar can ſpeak, <note place="margin">Ira in auribus habitat.</note>
+                  </l>
+                  <l>He doth into a thundring Paſſion break, <note place="margin">Oportet Judicem aures obiuſas habere &amp; hebetes ad rumores atque fabulas. Plato.</note>
+                  </l>
+                  <l>Which ore their Hearts doth ſuch affrightment ſpread,</l>
+                  <l>That 'fore they know their crimes, they are half dead.</l>
+                  <l>Anon the <hi>Indictments</hi> read, wherein are told</l>
+                  <l>Ten Crimes, among them which ſcarſe one will hold,</l>
+                  <l>With ſuch <hi>dread Circumſtances</hi> more beſide,</l>
+                  <l>He muſt a Devil be if not bely'd. <note place="margin">Nihil eſt vi<g ref="char:EOLhyphen"/>olentius aure Tyranni. Satyr: Perſp. cierdum eſt Judicanti Nequid, aut durius aut re<g ref="char:EOLhyphen"/>miſſius Conſti<g ref="char:EOLhyphen"/>tuatur quam cauſa depoſcit Martiarus.</note>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Vp ſtands <hi>Maniodes,</hi> Sirrah! you hear</l>
+                  <l>What 'gainſt you will (faith he) be made appear,</l>
+                  <l>The
+<note n="†" place="margin">Hanging is the worſt uſe a man can be put unto. Clarendon. St. H. W.</note> 
+                     <hi>Gallows</hi> long ſince Villain! groan'd for thee</l>
+                  <l>And thither ſhortly ſhall thy Carkaſs be,</l>
+                  <l>What further haſt thou in defence to ſay,</l>
+                  <l>Till <hi>Derick</hi> come and take thee quite away?</l>
+                  <l>He's mute the very thoughts of <hi>threatned Death,</hi>
+                  </l>
+                  <l>Lays a ſuſpenſion on his coming Breath.</l>
+                  <pb n="18" facs="tcp:150324:16"/>
+                  <l>Thus he behaves himſelf at open Barr,</l>
+                  <l>And in the Country is no leſs ſevere.</l>
+                  <l>For he no ſooner comes in Towns and ſits,</l>
+                  <l>But he's enquiring after <hi>Hugonets,</hi>
+                  </l>
+                  <l>Summons the Officers to bring him in,</l>
+                  <l>A Liſt of ſuch as have moſt guilty bin.</l>
+                  <l>This ſo much doth allarm the Neighbourhood,</l>
+                  <l>Men leave their Houſes to poſſeſs ſome Wood,</l>
+                  <l>And tho' the Lyon did deſign his Paw,</l>
+                  <l>'gainſt horned Beaſts alone that croſt his Law.</l>
+                  <l>Yet will the <hi>Hare,</hi> whoſe fall the <hi>Lyon</hi> ſcorns,</l>
+                  <l>Tremble for fear, his Ears be termed <hi>Hornes.</hi>
+                  </l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Euphorbus,</speaker>
+               <lg>
+                  <l>
+                     <hi>Madam!</hi> the truth of this muſt be believ'd,</l>
+                  <l>By what I know in <hi>Spain,</hi> where once I liv'd,</l>
+                  <l>And therefore for diverſions-ſake ſhall tell,</l>
+                  <l>What an affrighted <hi>Peaſant</hi> there befel.</l>
+               </lg>
+               <lg>
+                  <l>A Lord Inquiſitor by chance did range,</l>
+                  <l>And came into a ſilly Peaſants <hi>Grange,</hi>
+                  </l>
+                  <l>On whom poor Soul! no ſooner caſt his ſight,</l>
+                  <l>But fell a trembling 'fore this man of might,</l>
+                  <l>As if ſome <hi>Ghoſt</hi> or <hi>Daemon</hi> rather had</l>
+                  <l>Appear'd, and in ſome gaſtly garb been clad.</l>
+                  <l>And having little to procure him grace,</l>
+                  <l>For he was poor and in a thrift-leſs caſe,</l>
+                  <l>A Flaſque of Pears before his Lordſhip brings,</l>
+                  <l>In moſt ſubmiſſive mode 'mongſt other things,</l>
+                  <l>Which are accepted: but when they were ſpent,</l>
+                  <l>His Lordſhip (not remote) him meſſage ſent.</l>
+                  <l>He muſt needs ſpeak with him. "Lord! whats the cauſe,</l>
+                  <l>"(Thinks he) I never did offend the Laws,</l>
+                  <pb n="19" facs="tcp:150324:16"/>
+                  <l>"I am no <hi>Hugonet</hi> nor <hi>Heretick,</hi>
+                  </l>
+                  <l>"Nor at the Churches <hi>Rites</hi> did ever ſtick,</l>
+                  <l>"Both <hi>Maſs</hi> and <hi>Mattens</hi> I did ſtill frequent,</l>
+                  <l>"<hi>Confeſt</hi> and <hi>Penance</hi> did in time of <hi>Lent.</hi>
+                  </l>
+                  <l>"<hi>Calvin</hi> and <hi>Luther</hi> I do curſe and hate,</l>
+                  <l>"Nor did I think or act 'gainſt Church or State.</l>
+                  <l>"What have I done, that I muſt go before</l>
+                  <l>"His Direful Lordſhip, the Inquiſitor?</l>
+               </lg>
+               <lg>
+                  <l>Immediatly the Peaſant takes his Bed,</l>
+                  <l>Nor Eats, nor Drinks, looks like a man that's dead.</l>
+               </lg>
+               <lg>
+                  <l>His Lordſhip hearing that the Man was Ill,</l>
+                  <l>And could not in that part obſerve his will,</l>
+                  <l>Another Meſſenger at laſt repaires,</l>
+                  <l>Tells him, his <hi>Lordſhip</hi> only begs ſome <hi>Pears.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>He ſoon revives, and preſently did goe,</l>
+                  <l>Into the Orchard where his Fruit did grow:</l>
+                  <l>Roots up the Tree, and with good will anon,</l>
+                  <l>Delivers it with ſtore of Fruit th<gap reason="illegible" resp="#UOM" extent="3+ letters">
+                        <desc>•••…</desc>
+                     </gap>
+                  </l>
+               </lg>
+               <lg>
+                  <l>The Meſſenger condemns his raſhneſs, and</l>
+                  <l>Acquaints him, that he did not underſtand</l>
+                  <l>His drift herein: His Lordſhips only wiſh,</l>
+                  <l>Out of that Store, was but one friendly Diſh.</l>
+               </lg>
+               <lg>
+                  <l>"Good Sir! be pleas'd, he ſaid, and forthwith wept,</l>
+                  <l>"Within my Houſe and Garden ſhall be kept</l>
+                  <l>"Nought what his <hi>Lordſhip</hi> loves: now you've the <hi>tree</hi>
+                  </l>
+                  <l>"<hi>You</hi> nor <hi>your Lord ſhall I hope more to ſee</hi>
+                  </l>
+                  <pb n="24" facs="tcp:150324:17"/>
+                  <l>"For I <hi>proteſt,</hi> Death don't I more abhor,</l>
+                  <l>"Than the grim lookes of the <hi>Inquiſitor,</hi>
+                  </l>
+                  <l>"The <hi>thoughts of whom</hi> ſince <hi>thou laſt ſaw'ſt</hi> my <hi>houſe,</hi>
+                  </l>
+                  <l>"Hath made me value <hi>Life</hi> not at one Louſe.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Juſtice ſeverely
+<note n="†" place="margin">Scriptum Sequi Calum niatoris eſt be<g ref="char:EOLhyphen"/>ni vero Judi<g ref="char:EOLhyphen"/>cis auct<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>rit<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                           <g ref="char:EOLhyphen"/>tem volenta<g ref="char:EOLhyphen"/>temque deſen<g ref="char:EOLhyphen"/>dere.</note> rackt, growes wan and dies,</hi>
+                  </l>
+                  <l>
+                     <hi>Its empty Throne, Oppreſſion ſoon ſupplies,</hi>
+                  </l>
+                  <l>
+                     <hi>Whoſe direful rage unduely Subjects awes,</hi>
+                  </l>
+                  <l>
+                     <hi>And works abhorrence both to Lords and Laws.</hi>
+                  </l>
+                  <l>
+                     <hi>God keep</hi> St. <hi>Euſtace's Government, that ſhe</hi>
+                  </l>
+                  <l>
+                     <hi>May not tranſgreſs the bounds of Eqnity.</hi>
+                  </l>
+                  <l>
+                     <hi>Leſt ſhe turn Tyrant, and perchance what's worſe,</hi>
+                  </l>
+                  <l>
+                     <hi>Her Infant May'r look like her Old
+<note n="*" place="margin">Termul<g ref="char:EOLhyphen"/>tis annts prae teteritis div ul<g ref="char:EOLhyphen"/>gatum ſui<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> qu<g ref="char:EOLhyphen"/>oddam Spect<g ref="char:EOLhyphen"/>rum eo Nomi<g ref="char:EOLhyphen"/>ne Menſe De<g ref="char:EOLhyphen"/>cembris, ibi. Perambulaſſe.</note> black horſe.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Excuſe me if I've this you told in vain.</l>
+                  <l>Madam! I long to hear what doth remain.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Themista,</speaker>
+               <lg>
+                  <l>Some are perchance ſurpriz'd, &amp; brought before</l>
+                  <l>His Worſhip, who like Lord Inquiſitor,</l>
+                  <l>Gives them their Oath. <hi>You ſhall make anſwer true,</hi>
+                  </l>
+                  <l>
+                     <hi>To all ſuch Queſtions as are askt of you:</hi>
+                  </l>
+                  <l>And forthwith by a moſt Imperial Nod,</l>
+                  <l>Bids him to <hi>Kiſs the Book, ſo help you God.</hi>
+                  </l>
+                  <l>By <hi>Contents of the Book which you have kist,</hi>
+                  </l>
+                  <l>
+                     <hi>When</hi> (ſaith he) laſt <hi>took you the Euchariſt?</hi>
+                  </l>
+                  <l>
+                     <hi>When were you at the Maſs? when were you</hi> ſhrift?</l>
+                  <l>
+                     <hi>And let your anſwer be without a ſhift;</hi>
+                  </l>
+                  <l>
+                     <hi>When did you</hi> Penance? <hi>likewiſe tell me who</hi>
+                  </l>
+                  <l>
+                     <hi>Was that damn'd</hi> Heretick <hi>laſt preacht to you?</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Theſe ſilly Lambs, what man can but condole,</l>
+                  <l>Who hereby damn their Body or their Soul.</l>
+                  <pb n="25" facs="tcp:150324:17"/>
+                  <l>Nor can they from his dreadful Sentence fly,</l>
+                  <l>Without the curſed help of <hi>Perjury.</hi>
+                  </l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Euphorbus.</speaker>
+               <lg>
+                  <l>Hev'ns bleſs our <hi>Nation,</hi> and maintain the
+<note n="†" place="margin">Jura pub<g ref="char:EOLhyphen"/>lica certiſſima ſunt humanae Vitae Solatia infirmorum auxilia poten<g ref="char:EOLhyphen"/>tum fraena. Caſſiod.</note> 
+                     <hi>Law,</hi>
+                  </l>
+                  <l>Which doth on Subjects no ſuch miſchief draw,</l>
+                  <l>But ev'ry <hi>Peccant</hi> is <hi>per teſtes</hi> charg'd,</l>
+                  <l>For want of which the Pris'ner is enlarg'd.</l>
+                  <l>The <hi>Ex-official</hi> Oath, the Parliament</l>
+                  <l>To <hi>Rome</hi> and <hi>Hell</hi> from whence it came hath ſent.</l>
+                  <l>That <hi>Court</hi> or <hi>Judge</hi> that ſhall it re-inſpire,</l>
+                  <l>Falls <hi>Sans</hi> redreſs into a <hi>Praemunire.</hi>
+                  </l>
+                  <l>And this Right <hi>Magna Charta</hi> doth convey,</l>
+                  <l>
+                     <hi>None is himſelf obliged to betray.</hi>
+                  </l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Themiſta.</speaker>
+               <lg>
+                  <l>I know the Engliſh Lawes are juſt and good,</l>
+                  <l>Yet by ſome Rulers not well underſtood;</l>
+                  <l>They with like Oaths as theſe (not taking care)</l>
+                  <l>Oft 'gainſt the Law ſome ſilly Soules inſnare,</l>
+                  <l>But for Gods ſake and your own Countrys good,</l>
+                  <l>Tell what I ſay. Bid them beware of
+<note n="*" place="margin">Injuſte reum abſolu<g ref="char:EOLhyphen"/>ere, quam in<g ref="char:EOLhyphen"/>juſte damnate &amp; Occidere praeſtat. illnd namque pec<g ref="char:EOLhyphen"/>catum hoc Im<g ref="char:EOLhyphen"/>pietas. Antipho.</note> Blood.</l>
+               </lg>
+               <lg>
+                  <l>The Miſcreant next <hi>Parantmos</hi> we have,</l>
+                  <l>A Gentleman both Antient, Wiſe and Grave,</l>
+                  <l>His <hi>Eyes</hi> are roving all the World about,</l>
+                  <l>To find the humours <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> all Perſons out;</l>
+                  <l>Of which he keeps account ſo full, ſo true,</l>
+                  <l>He <hi>knows their Birth, 'State, Parts, Friends ſtore or few.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>His <hi>Mem'ry</hi> his his Mon'ter that directs</l>
+                  <l>Him how to give them all their meet reſpects,</l>
+                  <l>Squaring the <hi>Meaſures</hi> of his Actions ſo,</l>
+                  <l>His favours ever with the ſtream do goe.</l>
+                  <pb n="22" facs="tcp:150324:18"/>
+                  <l>Hence is't when that two differees have long,</l>
+                  <l>Been by the Ears concerning right and wrong,</l>
+                  <l>Met at the Barr to hear the Sentence laſt,</l>
+                  <l>That likely, ſhall be at the Action paſt:</l>
+                  <l>The very Clowns that leaſt of Law do know,</l>
+                  <l>Forchode and tell for whom the cauſe will goe.</l>
+               </lg>
+               <lg>
+                  <l>And when my ſelf has doubted, I have gon</l>
+                  <l>Through a vaſt <hi>crowd,</hi> &amp; a <hi>moſt num'rous throng,</hi>
+                  </l>
+                  <l>
+                     <hi>Pluckt him by th' Ear, yea, pincht his leathern heart,</hi>
+                  </l>
+                  <l>Cry'd, <hi>Juſtice! Juſtice!</hi> yet he did not ſtart.</l>
+                  <l>But gives the final Sentence, that might beſt</l>
+                  <l>Serve his own <hi>Friend, Geeat Man</hi> or <hi>Intereſt.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Not long agoe, a Man of mean Eſtate,</l>
+                  <l>Hoping for Juſtice, waited at his Gate.</l>
+                  <l>And that ſo long, ſo oft, without acceſs,</l>
+                  <l>That he deſpaires, goes off without ſucceſs.</l>
+                  <l>His mean Deportment, and his Sun-burnt Skin,</l>
+                  <l>Wanted a <hi>Paſs</hi> to let him friendly in.</l>
+                  <l>His cauſe was diſmal, for his cruel Lord</l>
+                  <l>Did not like Meaſure ere that time afford,</l>
+                  <l>He caſt this Man from out his Farm, becauſe</l>
+                  <l>He wanted <hi>Copy-Licenſe</hi> from his Paws.</l>
+                  <l>Tho his own Steward promis'd it before</l>
+                  <l>For one Gold <hi>Angel,</hi> and as good as Swore.</l>
+               </lg>
+               <lg>
+                  <l>With much ado
+<note n="†" place="margin">Judicis auxilium ſub iniqua lege re<g ref="char:EOLhyphen"/>gato. Saepe etiam Leges cupiunt ut Jure regan<g ref="char:EOLhyphen"/>tur Cato.</note> 
+                     <hi>Paranomos</hi> at laſt,</l>
+                  <l>His lofty Eyes upon this <hi>Muſhrom</hi> caſt.</l>
+               </lg>
+               <lg>
+                  <l>Fellow (ſaith he) I can't now talk with you,</l>
+                  <l>You muſt at Law, his Lordſhips <hi>Steward</hi> Sue.</l>
+                  <pb n="23" facs="tcp:150324:18"/>
+                  <l>A task ſo Vaine, as if to have his right</l>
+                  <l>An <hi>Infant</hi> had been bid <hi>Goliah</hi> fight:</l>
+                  <l>Whereas he ſhould redreſt ſuch wrong as this,</l>
+                  <l>By pleading for him <hi>Form â pauperis,</hi>
+                  </l>
+                  <l>But his <hi>Antagoniſt</hi> was high and great,</l>
+                  <l>So Juſtice muſt give place to Fraud and Cheat.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Euphorbus,</speaker>
+               <lg>
+                  <l>Madam! that Judg was more upright by far</l>
+                  <l>That had an <hi>Earl's</hi> Son once brought to's Bar,</l>
+                  <l>I'le not be tedious but you'l ſee in brief,</l>
+                  <l>He ſpar'd not <hi>Greatneſs</hi> nor Excus'd a <hi>Thief.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>A Priſoner he was 'fore this Judge brought</l>
+                  <l>Who had ſome <hi>Capital</hi> offences wrought.</l>
+                  <l>Being arraign'd &amp; Caſt doth humbly pray</l>
+                  <l>His <hi>Lordſhips</hi> audience unto what he'd ſay,</l>
+                  <l>My Lord! Saith he, ſtop <hi>Sentence</hi> for I am</l>
+                  <l>One, that from a moſt <hi>Noble Extract</hi> came.</l>
+                  <l>The Judg replys, your <hi>Crimes</hi> deſerve the halter</l>
+                  <l>Nor can in <hi>Juſtice</hi> I this Sentence alter.</l>
+                  <l>This Boon indeed I will not you deny,</l>
+                  <l>Your <hi>Gibbet</hi> therefore ſhall be <hi>Strong</hi> and <hi>High.</hi>
+                  </l>
+                  <l>Madam! I hope there are no more you find</l>
+                  <l>That 'gainſt your <hi>Ladyſhip</hi> are thus inclin'd.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Themiſta.</speaker>
+               <lg>
+                  <l>No more, <hi>Euphorbus!</hi> yes far more there are</l>
+                  <l>Than I'le now tel, leſt I thy patience Mar,</l>
+                  <l>But I've not all my ſtory told to thee</l>
+                  <l>How he behav'd himſelf in <hi>Germany.</hi>
+                  </l>
+                  <l>To tell thee <hi>When,</hi> It not the Matter helps,</l>
+                  <l>But 'twas in th' dayes of <hi>Gibeline</hi> and <hi>Guelps.</hi>
+                     <note n="*" place="margin">Sith in hu<g ref="char:EOLhyphen"/>mane Laws there be more things arbi<g ref="char:EOLhyphen"/>trable than forceable Jud<g ref="char:EOLhyphen"/>ges ought to a pproach more to Reaſon then oppinion Plut<g ref="char:EOLhyphen"/>to Trajan.</note>
+                  </l>
+                  <pb n="20" facs="tcp:150324:19"/>
+                  <l>
+                     <hi>Paranomos</hi> was then a <hi>Justice</hi> there</l>
+                  <l>After their cruel feuds grown calmer were,</l>
+                  <l>And both Sworn Subjects to the Emperor.</l>
+                  <l>He being chiefly to one party Kind,</l>
+                  <l>Bore 'gainſt the other a Revengful mind.</l>
+                  <l>A thouſand <hi>Crimes</hi> in <hi>Guelps</hi> he could not ſee</l>
+                  <l>When that the ſilly Gibeline muſt be</l>
+                  <l>Ev'n for one<note n="*" place="margin">Non ex Ver<g ref="char:EOLhyphen"/>bis pendet jus, ſed verba ſer<g ref="char:EOLhyphen"/>viunt homin<g ref="char:EOLhyphen"/>um Confiliis &amp; auctoritatibus. Nec Verba veniunt in judi<g ref="char:EOLhyphen"/>cium ſed ea re Cujus cauſa Verba in leges Conjecta ſun<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. M. T. Cice.</note> 
+                     <hi>Peccadillo</hi> clapt ſecure,</l>
+                  <l>And made what Law * Could well inflict <note place="margin">Legibus maxi<g ref="char:EOLhyphen"/>me amica eſt Simplicitas. Ibid.</note>
+                  </l>
+                  <l>With patience this was born til at laſt,</l>
+                  <l>The <hi>Empire</hi> into Civil broyls was caſt,</l>
+                  <l>Where he that <hi>Partial</hi> was this fate did bear</l>
+                  <l>The people in two peices him did teare;</l>
+                  <l>The Juſtice of whoſe fall I nev'r deny'd,</l>
+                  <l>He liv'd Divided, and divided dy'd.</l>
+                  <l>But I'le Contract two brethren Joyn'd by Blood, <note place="margin">Magnu<g ref="char:cmbAbbrStroke">̄</g> bonum ſunt leges ſed fi quis nimis has intuetur a cute ſycophan<g ref="char:EOLhyphen"/>te fit Menandr.</note>
+                  </l>
+                  <l>And govern'd one and ſelf ſame Neighbourhood</l>
+                  <l>I cannot but Complain of unto thee,</l>
+                  <l>Which Greatly doe oppoſe my ſov'raignty.</l>
+                  <l>
+                     <hi>Procrites</hi> and ſwart <hi>Ecdicates</hi> who</l>
+                  <l>Are of a like Complection and like hew. <note place="margin">A <hi>prejudiced and Reveng<g ref="char:EOLhyphen"/>ful One.</hi>
+                     </note>
+                  </l>
+                  <l>Whoſe Ears are long (and Boar-like very quick)</l>
+                  <l>To hear whats ſaid againſt an <hi>Heretick,</hi>
+                  </l>
+                  <l>Who if it but in a word * hap to tranſgreſs, <note place="margin">Theodo. Arcad. &amp; Honorius Nol lent quen quam de po<g ref="char:EOLhyphen"/>pulo ſubiici poenae qui pro<g ref="char:EOLhyphen"/>cacitate linguae at Maledicto in ſe peceaſſet. Quonlam ſiopprobrium ex levitate proceſſerit negligendum, Si ſurore aut in ſania Condolendum ſi deniqe ab injuria remittendum Sit.</note>
+                  </l>
+                  <l>Are by promoters ſeldom rendred leſs,</l>
+                  <l>But mounted up ſo to the higheſt pin</l>
+                  <l>A <hi>Venial's</hi> turn'd into a <hi>Mortal</hi> Sin.</l>
+                  <l>And Cheifly if a <hi>Monk</hi> or <hi>Fryer</hi> do</l>
+                  <l>Add but their <hi>Wit</hi> and ſiery <hi>Zeal</hi> thereto.</l>
+                  <pb n="21" facs="tcp:150324:19"/>
+                  <l>An act becoming ill their Sacred hood,</l>
+                  <l>For oftentimes their heat Concludes in Blood.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Euphorbus.</speaker>
+               <lg>
+                  <l>Madam Excuſe me if I ſeeme too prone,</l>
+                  <l>To give your <hi>Ladyſhip</hi> divertion.</l>
+                  <l>'Tis often ſaid there is no Chriſtian Law,</l>
+                  <l>That will allow a <hi>Preist</hi> a Sword to draw.</l>
+                  <l>No Reverend <hi>Biſhop</hi> in a Jury ſhall</l>
+                  <l>Their Verdit give in matters Capital.</l>
+                  <l>Yet by Experience We do often find</l>
+                  <l>None have to blood-ſhed been ſo much inclin'd,</l>
+                  <l>And ſome have been requited in their kinde.</l>
+                  <l>Madam! to all that hath been ſaid before,</l>
+                  <l>I'le only give you one ſhort ſtory more.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Phillip</hi> a Biſhop of <hi>Beavoys</hi> in <hi>France,</hi>
+                  </l>
+                  <l>Whom fortune did unto that See advance</l>
+                  <l>For feats of Chivalry 'gainſt <hi>England</hi> done</l>
+                  <l>Was in a battle by our Natives won,</l>
+                  <l>Surpriz'd and taken, whom our King doth hold</l>
+                  <l>Immur'd with others in a Dungeon cold.</l>
+                  <l>The <hi>Prelate</hi> grumbles at his deſtiny</l>
+                  <l>And to the <hi>Pope</hi> he doth himſelf apply.</l>
+                  <l>Pleads, to Excuſe himſelf from <hi>Sec'lar</hi> thral,</l>
+                  <l>His upſtart dignity <hi>Epiſcopal.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>The <hi>Pope's</hi> Enrag'd and in a <hi>pet</hi> Commands</l>
+                  <l>A Speedy freedome from his loathſome bands.</l>
+                  <l>Urges his <hi>Preiſthood</hi> as a <hi>Sacred</hi> thing,</l>
+                  <l>And mayn't be puniſh'd by an <hi>Earthly</hi> King.</l>
+                  <l>Moreover dam's the fact as raſhly done,</l>
+                  <l>To Seiz his <hi>Biſhop</hi> and <hi>beloved Son.</hi>
+                  </l>
+                  <pb n="26" facs="tcp:150324:20"/>
+                  <l>The <hi>King</hi> in his affairs advis'd was wel,</l>
+                  <l>Knew that a <hi>Victim</hi> Juſt to's Conqueſt fel,</l>
+                  <l>Returns the <hi>Armour</hi> which his body wore</l>
+                  <l>When he was taken by the Conqueror,</l>
+                  <l>Theſe words Engraven planly were thereon</l>
+                  <l>
+                     <hi>Is this the Coat Sir, of your preiſtly Son?</hi>
+                  </l>
+                  <l>At this his Holyneſs was wondrous wroth,</l>
+                  <l>And from his lips rapt out a Sacred <hi>Oath.</hi>
+                  </l>
+                  <l>This was the Coat of <hi>Mars</hi> and not his Son,</l>
+                  <l>So gave him up to <hi>Execution.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Madam! I've done, Now let me further hear,</l>
+                  <l>Theſe Judges great miſdeeds and Character.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Themiſta.</speaker>
+               <lg>
+                  <l>Their Memories retentive are and hold,</l>
+                  <l>For ever faſt what ſpite and Malice told.</l>
+                  <l>This
+<note n="*" place="margin">Non minus Turpe princtpi Multa Suppli<g ref="char:EOLhyphen"/>cia quam me<g ref="char:EOLhyphen"/>dico Multa funera. Clarendon.</note> grates them much til them this change befal</l>
+                  <l>Their hearts are into Wormwood turn'd &amp; gall:</l>
+                  <l>So that the Sugar'd ſentences which they,</l>
+                  <l>Or their grave Counſel in defence ſhall ſay.</l>
+                  <l>Is as ſucceſ leſs as his paynes would be,</l>
+                  <l>That would the <hi>Ocean</hi> of its <hi>Saltneſs</hi> free.</l>
+                  <l>But tho that <hi>Hereſy</hi> be made the ground,</l>
+                  <l>Of that dire rancour in their boſome found.</l>
+                  <l>Yet all the Neighbourhood do plainly Know,</l>
+                  <l>A grudg long ſince did on their ſtomachs grow</l>
+                  <l>Which ſith by Violence they could not vent,</l>
+                  <l>Under the robe of Juſtice now is ſpent.</l>
+                  <l>Yea tho that God Almightys Sacred Law,</l>
+                  <l>(So good, ſo Equal, and devoyd of flaw.)</l>
+                  <pb n="27" facs="tcp:150324:20"/>
+                  <l>Commands that we forgive our foes as we,</l>
+                  <l>Do hope our Selves by God Forgiv'n to be.</l>
+                  <l>Yea
+<note n="*" place="margin">Animum vin cere Iracundiam coh be re vic<g ref="char:EOLhyphen"/>to<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#UOM" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> rare Adverſa<g ref="char:EOLhyphen"/>rum Nobilita<g ref="char:EOLhyphen"/>te, ingenio, Virtute prae<g ref="char:EOLhyphen"/>ſtare Non modo Extol<g ref="char:EOLhyphen"/>lere Jacentem ſid etiam am<g ref="char:EOLhyphen"/>pliſicare eius priſtinam dig<g ref="char:EOLhyphen"/>ni tatem, Haec qui facit non ego eum ſum<g ref="char:EOLhyphen"/>mis Viris Com<g ref="char:EOLhyphen"/>paro ſed ſi<g ref="char:EOLhyphen"/>millimu<g ref="char:cmbAbbrStroke">̄</g> deo Judico. M. Cicero.</note> tho their <hi>Soveraign</hi> in Clemency,</l>
+                  <l>Hath paſt himſelfe an act of <hi>Amneſty.</hi>
+                  </l>
+                  <l>And by his Sacred Word for Ev'r hath fenc't,</l>
+                  <l>Such as before he was againſt incen'ſt.</l>
+               </lg>
+               <lg>
+                  <l>Yet 'ſpite of Hea'en and <hi>Majeſtick</hi> throne,</l>
+                  <l>They will revenge it and not pardon one:</l>
+                  <l>Theſe would be Zealots of the Higheſt rank,</l>
+                  <l>But done concern them more then they have thank.</l>
+                  <l>Nor can they ſo far blind all peoples eyes,</l>
+                  <l>But one or other ſoon their guile Eſpyes.</l>
+                  <l>Which by unconquer'd demonſtration ſhows,</l>
+                  <l>They've acted <hi>Devil</hi> in St. <hi>Samuel</hi>'s Cloaths.</l>
+                  <l>Venting their Wares in a deceiptful ſhade</l>
+                  <l>Their own Avengers are in <hi>Maſquerade.</hi>
+                  </l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Euphorbus.</speaker>
+               <lg>
+                  <l>Madam! ſuch Miſcreants as theſe do bring,</l>
+                  <l>
+                     <hi>Woe</hi> to themſelves, and <hi>Odium</hi> on their King.</l>
+                  <l>
+                     <hi>And to mine own Experience't hath been known,</hi>
+                  </l>
+                  <l>
+                     <hi>Such ſpitiſh Waſps have from their ſeats bin thrown</hi>
+                  </l>
+                  <l>
+                     <hi>Eye hath for Eye and tooth for tooth bin paid,</hi>
+                  </l>
+                  <l>Til men and Citys in the duſt were laid.</l>
+                  <l>Now whilſt upon that ſubject I am caſt,</l>
+                  <l>I'le tel you in my travels what hath paſt,</l>
+                  <l>At <hi>Millan</hi> where thoſe eyes of mine did ſee,</l>
+                  <l>Rancour requited with Severity.</l>
+               </lg>
+               <lg>
+                  <l>Proud <hi>Millan</hi> loath to bear Imperial Yoak,</l>
+                  <l>Their due Alleigance to their Prince they broke</l>
+                  <pb n="28" facs="tcp:150324:21"/>
+                  <l>Slighted great <hi>Fredrick,</hi> and from him withdrew,</l>
+                  <l>That Homage which was to their Sov'raigne due.</l>
+                  <l>Yea to Rebellion did that Malice add,</l>
+                  <l>A Conſtant Hatred 'gainſt that houſe they had.</l>
+                  <l>It ſo even'd, when <hi>Beatrice</hi> his Wife,</l>
+                  <l>Fanci'd a Jorney to delight her life.</l>
+                  <l>She came to <hi>Millan</hi> only there to ſee,</l>
+                  <l>That Once Appurt'nance of the Empirye.</l>
+                  <l>Not on an ill intent, or as a Spy,</l>
+                  <l>But meerly out of Curioſity.</l>
+                  <l>Having ſuppos'd that time had quite out-worn,</l>
+                  <l>The feud they had againſt the Emp'rout borne.</l>
+               </lg>
+               <lg>
+                  <l>The tydings were hereof no ſooner Flown,</l>
+                  <l>But the rude Multitude within the Town.</l>
+                  <l>In coveys flock and in a Barb'rous way,</l>
+                  <l>Her tender Corps within their Priſon lay,</l>
+                  <l>This done, they take her forth, and then aſtride</l>
+                  <l>Upon a ſily <hi>Mule</hi> they make to ride,</l>
+                  <l>With face towards the Tayle, &amp; at command,</l>
+                  <l>Inſteed of bridle held the ſame in hand.</l>
+                  <l>Thus ſo expos'd in Ev'ry lane and ſtreete,</l>
+                  <l>To her great ſhame, and very ſore regreet,</l>
+                  <l>They led her forth without the gate, where they</l>
+                  <l>With <hi>Kicks</hi> uncivil bid her take her way.</l>
+                  <l>This act ſo foul Revenge doth ſoon purſue,</l>
+                  <l>A potent Army the great <hi>Fred'rick</hi> drew.</l>
+                  <l>Before her walls and in ſome little ſpace,</l>
+                  <l>In fury Storm'd and poſſeſt the place.</l>
+                  <l>Adjudg'd them all unto the dint of Sword,</l>
+                  <l>Only this <hi>Kanſome</hi> he did them afforde.</l>
+                  <pb n="29" facs="tcp:150324:21"/>
+                  <l>Between the Buttocks of a skittiſh <hi>Mule,</hi>
+                  </l>
+                  <l>Which none could either Maſter, tame, or rule.</l>
+                  <l>Was fixt a bunch of Figgs, the conquer'd theſe,</l>
+                  <l>(That they the <hi>Empr'rors fury might appeaſe,</hi>
+                  </l>
+                  <l>
+                     <hi>And ſave their lives, which now ware at the Stake,)</hi>
+                  </l>
+                  <l>
+                     <hi>With both their hands bound faſt behind their back.</hi>
+                  </l>
+                  <l>
+                     <hi>Muſt with their teeth pluck out as ſhe did pace,</hi>
+                  </l>
+                  <l>And this was taken for a wondrous Grace.</l>
+               </lg>
+               <lg>
+                  <l>Such as Nor would nor could with this Comply,</l>
+                  <l>Did by the Weapons of the ſouldiers dye.</l>
+               </lg>
+               <lg>
+                  <l>"Mercy findes Mercy but the cruel wight,</l>
+                  <l>"Vengeance with Int'reſt will eſtſoons requite</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Themiſta.</speaker>
+               <lg>
+                  <l>All this is true, but what availeth this,</l>
+                  <l>To melt the heart that Adamaine is.</l>
+                  <l>Howe're performe thy office, and let me,</l>
+                  <l>Know the ſucceſſes of thine Embaſſie.</l>
+                  <l>Go tell the Malefactors to their face,</l>
+                  <l>That ſith they have me driven from my place.</l>
+                  <l>I'le ſpread their Crimes 'fore the <hi>Almighty King,</hi>
+                  </l>
+                  <l>In ſuch a mode that all the Hev'ns ſhall ring.</l>
+                  <l>Unleſs they do repent, and change their mind,</l>
+                  <l>And unto me more friendly be inclin'd</l>
+               </lg>
+               <lg>
+                  <l>Heav'n ſpeed thy way, and when thou meet'ſt my Friends,</l>
+                  <l>Tell them <hi>Themiſta</hi> to them <hi>Greeting</hi> Sends.</l>
+               </lg>
+            </sp>
+         </div>
+         <div type="conclusion">
+            <pb n="30" facs="tcp:150324:22"/>
+            <head>
+               <hi>Concluſio &amp; Votum</hi> Authoris.</head>
+            <lg>
+               <l>
+                  <hi>HEavens</hi> preſerve our <hi>Caeſar,</hi> and ſecure</l>
+               <l>
+                  <hi>His</hi> Race <hi>from harm as long's the World doth 'dure.</hi>
+               </l>
+               <l>
+                  <hi>Endow</hi> them with all <hi>Heav'nly Grace, that they</hi>
+               </l>
+               <l>The <hi>Britiſh</hi> Scepter may with <hi>Juſtice</hi> ſway.</l>
+               <l>Cheriſh all <hi>Loyal</hi> Hearts, proud <hi>Rebels</hi> tame,</l>
+               <l>And keep our <hi>clergy</hi> from deſerved blame.</l>
+               <l>Rule all our <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> make our <hi>Judges</hi> Juſt,</l>
+               <l>Let not the Sword that's in their Scabbard ruſt.</l>
+               <l>Root up all <hi>Vice,</hi> let <hi>Vertue</hi> ſprout amaine,</l>
+               <l>And in King <hi>Charles</hi>'s Heart, King <hi>Jeſu!</hi> Reign.</l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>The Printers <hi>Advertiſement</hi> to the Reader.</head>
+            <p>THere is another Piece ſhortly will be extant, (God willing) Entituled, <hi>Taviſtock Anatomiz'd;</hi> or the <hi>Honour, Dignity, Priviledges,</hi> and other Natural <hi>Vertues</hi> of that Famous and Antient <hi>Borrough</hi> diſ<g ref="char:EOLhyphen"/>played, in a brief Coment on its <hi>Name, Situation, Air, Water, Fire<g ref="char:EOLhyphen"/>ing, Abbey, Manufacture, &amp;c.</hi> Conſiſting of more then Twenty Chap<g ref="char:EOLhyphen"/>ters, each Chapter attended with a pleaſant and ſutable <hi>Poem,</hi> very re<g ref="char:EOLhyphen"/>creaiive to Ingenious <hi>Mindes,</hi> and cannot but be very acceptable to all Men, eſpecially ſuch who had the Honour of their Birth or Education in that Clyme. <hi>Price One Shilling.</hi>
+            </p>
+            <p>
+               <hi>Likewiſe another Entituled,</hi>
+            </p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Containing the <hi>Golden Epiſtles</hi> of divers Renowned <hi>Gentiles,</hi> perticularly of ſeveral <hi>Roman Emperours,</hi> where<g ref="char:EOLhyphen"/>in may be read their profound <hi>Wiſdom</hi> and <hi>Policie,</hi> beſides thoſe Incom<g ref="char:EOLhyphen"/>parible <hi>Moralities</hi> that challenge not only the <hi>Admiration,</hi> but ſtrenouſly call for the <hi>Imitation</hi> of the gentileſt <hi>Chriſtian:</hi> Firſt done out of the Original <hi>Greek,</hi> by a learned <hi>Spaniard, Chronicler</hi> to that great Empe<g ref="char:EOLhyphen"/>rour, <hi>Charles</hi> the fifth, for about <hi>160</hi> Years ſince, and here communi<g ref="char:EOLhyphen"/>cated to the World in our Native Tongue.</p>
+            <pb facs="tcp:150324:22"/>
+         </div>
+      </back>
+   </text>
+</TEI>
